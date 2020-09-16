@@ -1,0 +1,2 @@
+# Ultraviolet_Image_Python_Processing_Codes
+A selection of prototype and complete codes that use custom equations of color channel leverage of images taken in the Ultraviolet using specialist filters in order to create UV absorbance and reflectance index maps in an analogy to the NDVI technique of remote sensing. It is hoped that this step opens the gate to new developments of using drones and ultraviolet photography to perform visual inspection and environmental monitoring.
